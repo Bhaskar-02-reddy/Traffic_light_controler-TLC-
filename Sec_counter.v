@@ -1,19 +1,19 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: MVJ college of Engineering 
+// Engineer: BHASKAR S P
 // 
 // Create Date: 14.09.2026 18:27:35
-// Design Name: 
+// Design Name: SECOND COUNTER 
 // Module Name: Sec_counter
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
+// Project Name: TLC
+// Target Devices: FPGA
+// Tool Versions: 2025 and abow 
 // Description: THis is an Time driven circuit 
 // 
 // Dependencies: 
 // 
-// Revision:
+// Revision: 
 // Revision 0.01 - File Created
 // Additional Comments:
 // 
